@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Text Classification project using TensorFlow, where I’m training models to categorize textual data—exploring LSTM, CNNs<br><br>👯 AI projects involving Natural Language Processing, ML model deployment, or generative AI .<br><br>🤝 Scaling ML models for real-time use<br><br>🌱 Transformer models, TensorFlow ecosystem (TFX, TensorBoard), and deploying ML pipelines using Streamlit and Flask.<br><br>💬 AI, text classification or how to get started with machine learning.<br><br>⚡ I built a music streaming platform that recommends songs based on your mood—and it actually gets it right more often than you'd think!
+🔭 Text Classification project using TensorFlow<br><br>👯 AI projects involving Natural Language Processing, ML model deployment, or generative AI .<br><br>🌱 Transformer models, TensorFlow ecosystem and deploying ML pipelines <br><br>💬 AI, text classification or how to get started with machine learning.<br><br>⚡ I built a music streaming platform that recommends songs based on your mood—and it actually gets it right more often than you'd think!
 
 
 # 💻 Tech Stack:
